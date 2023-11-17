@@ -7,4 +7,6 @@
 - The updateTime function is responsible for updating the time and is called every second using setInterval.
 - The time is displayed in a <h1> element.
 
+  
+
 # This component can be reused by anyone to include time in their projects
